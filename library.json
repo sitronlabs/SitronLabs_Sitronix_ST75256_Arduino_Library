@@ -9,6 +9,9 @@
     },
     "frameworks": "arduino",
     "platforms": "*",
+    "dependencies": {
+        "adafruit\/Adafruit GFX Library": "^1.11.9"
+    },
     "build": {
         "includeDir": "src"
     }

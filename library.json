@@ -1,7 +1,7 @@
 {
     "name": "Sitron_Labs_ST75256_Arduino_Library",
     "version": "0.1.0",
-    "description": "Arduino library for LCD displays based on the ST75256 controller.",
+    "description": "Arduino library for LCD displays based on the Sitronix ST75256 controller.",
     "keywords": "sitron labs,sitron,labs,arduino,library,display,oled,i2c,spi,sh1106,controller,128x64,128,64",
     "repository": {
         "type": "git",

@@ -8,7 +8,7 @@ Arduino library for LCD displays based on the ST75256 controller
 
 ### Supported interfaces
 | Interface | Status |
-|---|:--:|
+|-----------|:------:|
 | SPI, Buffered | ❌ |
-| I2C, Buffered I2C | ✔️ |
+| I2C, Buffered | ✔️ |
 | I2C, Unbuffered | ❌ |
